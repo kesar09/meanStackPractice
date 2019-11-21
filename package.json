@@ -1,0 +1,22 @@
+{
+  "name": "meanstackpractice",
+  "version": "1.0.0",
+  "description": "This Repository is meant for those developers who want to learn Mean stack",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kesar09/meanStackPractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kesar09/meanStackPractice/issues"
+  },
+  "homepage": "https://github.com/kesar09/meanStackPractice#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
